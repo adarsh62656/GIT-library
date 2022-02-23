@@ -2,6 +2,8 @@
 
 ```git``` is a library that can be used to run git commands in python.
 
+## Installation
+Paste ```git.py``` file in the ```Lib``` folder of the path retreved from ```os.path.dirname(sys.executable)```
 
 ## Usage
 
